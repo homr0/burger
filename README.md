@@ -1,6 +1,6 @@
 # Eat Da Burger
 
-Welcome to [Eat Da Burger](https://fast-inlet-22337.herokuapp.com/), an app for all-you-can-eat burgers.
+Welcome to [Eat Da Burger](https://da-burger-eaters.herokuapp.com/), an app for all-you-can-eat burgers.
 
 This app keeps track of what burgers have been ordered and what burgers have been eaten. Additionally users can order more burgers to eat.
 
